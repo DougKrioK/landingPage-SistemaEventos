@@ -1,0 +1,4 @@
+node_modules
+dist
+src/vendor
+src/index/ajax/email.php

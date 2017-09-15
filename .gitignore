@@ -1,4 +1,6 @@
-node_modules
-dist
+src/node_modules
 src/vendor
-src/index/ajax/email.php
+src/index/user
+index/user
+
+src/.travis.yml
